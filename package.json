@@ -1,0 +1,24 @@
+{
+  "name": "deepjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/posenet": "^2.2.1",
+    "@tensorflow/tfjs-converter": "^1.7.2",
+    "@tensorflow/tfjs-core": "^1.7.2",
+    "@tensorflow/tfjs-node": "^1.7.2",
+    "blob-to-buffer": "^1.2.8",
+    "canvas": "^2.6.1",
+    "express": "^4.17.1",
+    "file-type": "^14.1.4",
+    "get-pixels": "^3.3.2",
+    "node-fetch": "^2.6.0",
+    "read-blob": "^1.1.0"
+  }
+}
