@@ -16,7 +16,7 @@
     "blob-to-buffer": "^1.2.8",
     "canvas": "^2.6.1",
     "express": "^4.17.1",
-    "file-type": "^14.1.4",
+    "file-type": "^16.5.4",
     "get-pixels": "^3.3.2",
     "node-fetch": "^2.6.0",
     "read-blob": "^1.1.0"
